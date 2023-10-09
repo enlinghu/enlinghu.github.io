@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr Enling Hu's Academic Page 胡恩岭博士的学术主页"
 title_separator          : "-"
 name                     : &name "Your Sidebar Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enling Hu"
+  name             : "Enling Hu 胡恩岭"
   avatar           : "profile.png"
   bio              : "Real dream is the other shore of reality"
   location         : "China Mainland & Hong Kong"
