@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Enling Hu 胡恩岭"
   avatar           : "profile.png"
-  bio              : "Real dream is the other shore of reality"
+  bio              : "Real Dream is The Other Shore of Reality"
   location         : "China Mainland & Hong Kong"
-  employer         : "Southwest University 西南大学"
+  employer         : "Southwest University, China 西南大学"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=E-5qdngAAAAJ"
   email            : "enling.allen.hu@connect.polyu.hk"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"https://enlinghu.github.io"
   google_plus      :
   keybase          :
   instagram        :
