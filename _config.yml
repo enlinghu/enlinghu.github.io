@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Enling Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Real dream is the other shore of reality"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "enling.allen.hu@connect.polyu.hk"
+  researchgate     : "https://www.researchgate.net/profile/Enling-Hu"
   uri              :
   bitbucket        :
   codepen          :
