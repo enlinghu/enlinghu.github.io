@@ -1,4 +1,12 @@
-# Teaching for undergraduates 本科生教学
+---
+title: "Teaching for undergraduates 本科生教学"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2018-07-12
+location: "City, Country"
+---
 
 - Textile Chemistry 纺织化学
 - Functional Textiles 功能纺织品
