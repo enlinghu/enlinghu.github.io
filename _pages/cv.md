@@ -33,7 +33,7 @@ Work experience 工作经历
 
 
   
- * 2016 - 2021: Postdoctoral Fellow
+* 2016 - 2021: Postdoctoral Fellow
   * The Hong Kong Polytechnic University
   * Supervisor: Prof. Songmin Shang, Dr. Dahua Shou
 
