@@ -1,8 +1,9 @@
 ---
 title: "Teaching for undergraduates 本科生教学"
 collection: teaching
-type: # "Undergraduate course 课堂课程"
+type: "Undergraduate course 课堂课程"
 permalink: /teaching/2014-spring-teaching-1
+---
 
 
 Textile Chemistry 纺织化学
