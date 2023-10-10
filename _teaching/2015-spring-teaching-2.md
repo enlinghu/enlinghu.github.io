@@ -3,7 +3,7 @@ title: "Teaching for postgraduates 研究生教学"
 collection: teaching
 type: "In-classroom lecture"
 permalink: /teaching/2015-spring-teaching-2
-venue: "Southwest University, College of Sericulture, Textile and Biomass Sciences"
+venue: "College of Sericulture, Textile and Biomass Sciences, Southwest University, China"
 date: 2018-07-12
 location: "Chongqing, China"
 ---
