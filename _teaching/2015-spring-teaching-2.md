@@ -1,8 +1,5 @@
----
-title: "Teaching for postgraduates 研究生教学"
-collection: teaching
-type: # "Philosophy of Master硕士研究生"
-permalink: /teaching/2015-spring-teaching-2
+Teaching for postgraduates 研究生教学
+Philosophy of Master硕士研究生
 
 
 Literature Review 中外主文献研读
