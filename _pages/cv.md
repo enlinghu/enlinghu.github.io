@@ -56,13 +56,10 @@ Work experience 工作经历
 
 Research Interests 研究方向
 ======
-* Hemostasis
-* Thrombolysis
-* Tissue repair
+* Hemostasis 智能递送止血材料
+* Thrombolysis 精准靶向溶栓与携栓血管修复材料
+* Tissue repair 交互响应性组织修复材料
 
-- 智能递送止血材料
-- 交互响应性组织修复材料
-- 精准靶向溶栓与携栓血管修复材料
 
 Publications 代表性论文
 ======
