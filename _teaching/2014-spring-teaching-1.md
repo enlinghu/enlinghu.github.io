@@ -1,7 +1,7 @@
 ---
 title: "Teaching for undergraduates 本科生教学"
 collection: teaching
-type: "In-campus Lectures 线下课堂授课"
+type: "In-classroom Lectures"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Southwest University, College of Sericulture, Textile and Biomass Sciences"
 date: 2018-07-12
