@@ -23,13 +23,15 @@ redirect_from:
 
 
 ### 写给青涩如你的心灵小鸡汤
-成长绝非易事，蜕变更是难比登天。
-人生需要尽早规划，方能能不落人后。
-想要脱颖而出，既要有强大的内心，更要有助力的平台。
+成长绝非易事，蜕变更是难比登天。\
+人生需要尽早规划，方能能不落人后。\
+想要脱颖而出，既要有强大的内心，更要有助力的平台。\
 **优秀如你，何不加入我们，华丽变身科研“小超人”，共同见证你的蜕变**。
 
-QQ：183961120
 
+联系方式
+![QQ二维码扫描]
+(/images/qqQRcode.png).
 
 
 ## Lectures 授课科目
@@ -44,11 +46,4 @@ QQ：183961120
 - Functional Textiles 《功能纺织品》
 - Instrumental Methods 《染整仪器操作实践》
 - Thesis Writting 《学位论文写作与学术规范》
-- The Future Trends of Fashion 《时尚的未来趋势》（国际课程）
-
-联系方式
-![QQ二维码扫描](/images/qqQRcode.png).
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- The Future Trends of Fashion 《时尚的未来趋势》（国际课程） 
