@@ -3,12 +3,7 @@ title: "Teaching for undergraduates 本科生教学"
 collection: teaching
 type: # "Undergraduate course 课堂课程"
 permalink: /teaching/2014-spring-teaching-1
-venue: # "University 1, Department"
-date: # 2014-01-01
-location: # "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Textile Chemistry 纺织化学
 ======
