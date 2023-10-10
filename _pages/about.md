@@ -23,25 +23,4 @@ redirect_from:
 - 中国国际“互联网+”大学生创新创业大赛获奖
 - 大学生创新创业训练计划国家级、市级、校级项目立项
 
-
-
-
-
-![QQ二维码扫描](/images/qqQRcode.png).
-
-
-
-
-## Lectures 授课科目
-
-**For Postgraduates 研究生课程**
-- LIterature Review 《中外主文献研读》
-- Frontiers in Textile Chemistry 《染整技术前沿》
-
-
-**For undergraduates 本科生课程**
-- Textile Chemistry 《纺织化学》
-- Functional Textiles 《功能纺织品》
-- Instrumental Methods 《染整仪器操作实践》
-- Thesis Writting 《学位论文写作与学术规范》
-- The Future Trends of Fashion 《时尚的未来趋势》（国际课程） 
+![QQ二维码扫描](/images/recruitposter.png).
