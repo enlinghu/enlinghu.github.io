@@ -30,19 +30,19 @@ redirect_from:
 **成为别人眼中的科研“小超人”**。
 
 
-## 授课科目
+## Lectures 授课科目
 
-**研究生课程**
-- 《中外主文献研读》
-- 《染整技术前沿》
+**For Postgraduates 研究生课程**
+- LIterature Review 《中外主文献研读》
+- Frontiers in Textile Chemistry 《染整技术前沿》
 
 
-**本科生课程**
-- 《纺织化学》
-- 《功能纺织品》
-- 《染整仪器操作实践》
-- 《学位论文写作与学术规范》
-- 《时尚的未来趋势》（国际课程）
+**For undergraduates 本科生课程**
+- Textile Chemistry 《纺织化学》
+- Functional Textiles 《功能纺织品》
+- Instrumental Methods 《染整仪器操作实践》
+- Thesis Writting 《学位论文写作与学术规范》
+- The Future Trends of Fashion 《时尚的未来趋势》（国际课程）
 
 Getting started
 ======
