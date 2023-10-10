@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
-collection: teaching教学
-type: "Undergraduate course"
+title: "Teaching for undergraduates 本科生教学"
+collection: teaching
+type: # "Undergraduate course 课堂课程"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: # "University 1, Department"
+date: # 2014-01-01
+location: # "City, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Textile Chemistry 纺织化学
 ======
 
-Heading 2
+Functional Textiles 功能纺织品
 ======
 
-Heading 3
+Instrumental Methods 染整仪器操作实践
+======
+
+Thesis Writing 学位论文写作与学术规范
+======
+
+The Future Trends of Fashion 时尚的未来趋势（国际课程）
 ======
