@@ -31,11 +31,16 @@ redirect_from:
 
 
 Recruitment of in-campus college student (Year 1&2) 
-西大在读本科生招募(大一、大二)
+西大在读本科生科研小能手招募(大一、大二)
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+在全校范围内，长期招募对本课题组的研究有兴趣与热情的大一、大二本科生同学（理工科、农科），引导优秀本科生同学尽早参与科研活动。为有志于进一步提升自我的本科生同学提供研究平台， “领先”一步产出科研成果，成为同龄人中的佼佼者。助力免试攻读硕士学位研究生（保研），助力海外高校深造（留学）。成果形式包括：
+1. 发表高水平英文学术论文
+1. 竞逐中国国际“互联网+”大学生创新创业大赛
+1. 申报大学生创新创业训练计划国家级、市级、校级项目
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**写给青涩如你的心灵小鸡汤**：
+成长绝非易事，蜕变更是难上加难。没有金刚钻，揽不下瓷器活。人生需要规划，更需要提早规划。要在同级的竞争者中脱颖而出，既要有内心强大的进取心，更要有外部提供的助力平台。如果你的内心足够强大，如果你的意志足够坚定，**何不加入我们华丽变身，成为别人眼中的科研“小超人”**？
+
 
 Getting started
 ======
