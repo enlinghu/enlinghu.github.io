@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Hu's Academic Page"
+title                    : "Hu's Academic Page"
 title_separator          : "-"
 name                     : &name "Your Sidebar Name"
 description              : &description "personal description"
