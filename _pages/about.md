@@ -10,14 +10,17 @@ redirect_from:
 
 胡恩岭博士，西南大学副教授、硕士生导师。自2009年始，供职于香港理工大学近十年，先后担任研究助理、助理研究员、博士后等职位，从事功能材料、催化反应等领域的研究。2018年7月，入职西南大学，在蚕桑纺织与生物质科学学院开展科研与教学工作。在研究生培养上，同时担任生物与医药（专硕）与纺织科学与工程（学硕）两个专业的硕士生导师；在本科生培养上，担任纺织工程系、轻化工程系、生物质科学与工程系、蚕学和生物技术系学业导师、创新实验导师、毕业设计导师、以及大学生“互联网+”创新创业竞赛导师。
 
+
 研究方向：
 1. 智能递送止血材料
 1. 交互响应性组织修复材料
 1. 精准靶向溶栓与携栓血管修复材料
 
+
 研究生课程：
 1. 《中外主文献研读》
 1. 《染整技术前沿》
+
 
 本科生课程：
 1. 《纺织化学》
@@ -26,7 +29,6 @@ redirect_from:
 1. 《学位论文写作与学术规范》
 1. 《时尚的未来趋势》（国际课程）
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Recruitment of in-campus college student (Year 1&2) 
 西大在读本科生招募(大一、大二)
