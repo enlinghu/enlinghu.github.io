@@ -32,8 +32,6 @@ QQ：183961120
 
 
 
-
-
 ## Lectures 授课科目
 
 **For Postgraduates 研究生课程**
@@ -49,7 +47,7 @@ QQ：183961120
 - The Future Trends of Fashion 《时尚的未来趋势》（国际课程）
 
 联系方式
-![Editing a markdown file for a talk](/images/Photo.png)
+![QQ二维码扫描](/images/qqQrcode.png).
 
 For more info
 ------
