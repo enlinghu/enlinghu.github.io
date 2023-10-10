@@ -1,11 +1,11 @@
 ---
 title: "Teaching for undergraduates 本科生教学"
 collection: teaching
-type: "Undergraduate course"
+type: "In-campus Lectures 线下课堂授课"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Southwest University, College of Sericulture, Textile and Biomass Sciences"
 date: 2018-07-12
-location: "City, Country"
+location: "Chongqing, China"
 ---
 
 - Textile Chemistry 纺织化学
