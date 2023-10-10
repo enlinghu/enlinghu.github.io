@@ -47,7 +47,7 @@ QQ：183961120
 - The Future Trends of Fashion 《时尚的未来趋势》（国际课程）
 
 联系方式
-![QQ二维码扫描](/images/qqQrcode.png).
+![QQ二维码扫描](/images/qqQRcode.png).
 
 For more info
 ------
