@@ -31,9 +31,7 @@ redirect_from:
 **优秀如你，何不加入我们，华丽变身科研“小超人”，共同见证你的蜕变**。
 
 
-联系方式
-![QQ二维码扫描]
-(/images/qqQRcode.png).
+![QQ二维码扫描](/images/qqQRcode.png).
 
 
 
