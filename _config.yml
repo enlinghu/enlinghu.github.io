@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Enling Hu's Academic Page 胡恩岭博士的学术主页"
+title                    : "Dr Hu's Academic Page"
 title_separator          : "-"
 name                     : &name "Your Sidebar Name"
 description              : &description "personal description"
