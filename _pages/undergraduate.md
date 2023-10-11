@@ -26,11 +26,12 @@ redirect_from:
 👩🏼‍🎓助力免试攻读硕士学位研究生（保研）👨🏻‍🎓  
 👨🏻‍🎓助力海外高校深造（留学）👩🏼‍🎓 
 
-📣QQ: 183961120 (注明：招新)📱 
+ 
+📣**QQ: 183961120 (注明：招新)**
+📣**QQ: 183961120 (注明：招新)**
+📣**QQ: 183961120 (注明：招新)**
  
  
- 
-  
 # 👇看看学长🦸🏻‍♂️学姐🦸🏻的表现吧👇
 ## 🤓SCI论文发表
 - Luo, J. （罗锦阳🦸🏻，2020级轻化工程）; Wang, J.; Li, Q.; Xiong, L.; Xie, R.; Lan, G.; Ning, L.-J.; Xie, J.; Hu, E.; Lu, B. [In Situ Generation of Bioadhesives Using Dry Tannic Silk Particles: A Wet-Adhesion Strategy Relying on Removal of Hydraulic Layer over Wet Tissues for Wound Care. International Journal of Biological Macromolecules](https://doi.org/10.1016/j.ijbiomac.2023.126087)（国外A1🥇级期刊，保研成果计分：40） 2023, 250, 126087.
