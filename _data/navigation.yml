@@ -1,11 +1,11 @@
 # main links links
 main:
+  - title: "🔥本科生培养🔥"
+    url: /undergraduate/
+
 #  - title: "Publications代表论文"
     url: /publications/
 
-  - title: "🔥本科生培养🔥"
-    url: /undergraduate/
-    
 #  - title: "Talks报告"
     url: /talks/    
 
