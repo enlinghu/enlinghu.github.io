@@ -6,17 +6,17 @@ main:
   - title: "🔥本科生培养🔥"
     url: /undergraduate/
     
-  - title: "Talks报告"
+#  - title: "Talks报告"
     url: /talks/    
 
   - title: "Teaching授课"
     url: /teaching/    
     
-  - title: "Portfolio图文记录"
+#  - title: "Portfolio图文记录"
     url: /portfolio/
         
-  - title: "Blog发帖"
+#  - title: "Blog发帖"
     url: /year-archive/
     
-  - title: "CV简历"
+#  - title: "CV简历"
     url: /cv/
