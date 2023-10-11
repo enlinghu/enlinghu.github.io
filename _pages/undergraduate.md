@@ -34,9 +34,8 @@ redirect_from:
 📣**QQ: 183961120 (注明：招新)** <br>
  <br>
  <br>
- <br>
  
-# 👇看看学长🦸🏻‍♂️学姐🦸🏻的表现吧👇
+# 👇看看🦸🏻‍♂️学长学姐🦸🏻的表现吧👇
 ## 🤓SCI论文发表
 - Luo, J. （罗锦阳🦸🏻，2020级轻化工程）; Wang, J.; Li, Q.; Xiong, L.; Xie, R.; Lan, G.; Ning, L.-J.; Xie, J.; Hu, E.; Lu, B. [In Situ Generation of Bioadhesives Using Dry Tannic Silk Particles: A Wet-Adhesion Strategy Relying on Removal of Hydraulic Layer over Wet Tissues for Wound Care. International Journal of Biological Macromolecules](https://doi.org/10.1016/j.ijbiomac.2023.126087)（国外A1🥇级期刊，保研成果计分：40） 2023, 250, 126087.
 - Liu, Y.（刘烊🦸🏻‍♂️，2018级纺织工程）; Yu, K.; Shang, S.; Xie, R.; Lu, F.; Bao, R.; Lan, G.; Hu, E. [Chestnut-like Macro-Acanthosphere Triggered Hemostasis: A Featured Mechanism Based on Puncturing Red Blood Cells](https://doi.org/10.1039/D1NR01148K). Nanoscale （国外A2🥈级期刊，保研成果计分：25）2021, 13 (21), 9843–9852.
