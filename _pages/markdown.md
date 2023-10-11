@@ -9,10 +9,10 @@ redirect_from:
 
 
 ## SCI论文发表
-- Luo, J. （罗锦阳，2020级轻化工程）; Wang, J.; Li, Q.; Xiong, L.; Xie, R.; Lan, G.; Ning, L.-J.; Xie, J.; Hu, E.; Lu, B. In Situ Generation of Bioadhesives Using Dry Tannic Silk Particles: A Wet-Adhesion Strategy Relying on Removal of Hydraulic Layer over Wet Tissues for Wound Care. International Journal of Biological Macromolecules （国外A1级期刊，保研成果计分：40） 2023, 250, 126087. https://doi.org/10.1016/j.ijbiomac.2023.126087.
-- Liu, Y.（刘烊，2018级纺织工程）; Yu, K.; Shang, S.; Xie, R.; Lu, F.; Bao, R.; Lan, G.; Hu, E. Chestnut-like Macro-Acanthosphere Triggered Hemostasis: A Featured Mechanism Based on Puncturing Red Blood Cells. Nanoscale （国外A2级期刊，保研成果计分：25）2021, 13 (21), 9843–9852. https://doi.org/10.1039/D1NR01148K.
-- Yang, C. （杨春红，2017级纺织工程）; Shang, S.; Shou, D.; Ran, L.; Lan, G.; Hu, E. Transforming Natural Silk Nonwovens into Robust Bioadhesives for in Vivo Tissue Amendment. Journal of Cleaner Production （国外A1级期刊，保研成果计分：40） 2021, 314, 127996. https://doi.org/10.1016/j.jclepro.2021.127996.
-- Zhou, L. （周琳，2017级纺织工程）; Yu, K.; Lu, F.; Lan, G.; Dai, F.; Shang, S.; Hu, E. Minimizing Antibiotic Dosage through in Situ Formation of Gold Nanoparticles across Antibacterial Wound Dressings: A Facile Approach Using Silk Fabric as the Base Substrate. Journal of Cleaner Production （国外A1级期刊，保研成果计分：40） 2020, 243, 118604. https://doi.org/10.1016/j.jclepro.2019.118604.
+- Luo, J. （罗锦阳，2020级轻化工程）; Wang, J.; Li, Q.; Xiong, L.; Xie, R.; Lan, G.; Ning, L.-J.; Xie, J.; Hu, E.; Lu, B. [In Situ Generation of Bioadhesives Using Dry Tannic Silk Particles: A Wet-Adhesion Strategy Relying on Removal of Hydraulic Layer over Wet Tissues for Wound Care. International Journal of Biological Macromolecules](https://doi.org/10.1016/j.ijbiomac.2023.126087)（国外A1级期刊，保研成果计分：40） 2023, 250, 126087.
+- Liu, Y.（刘烊，2018级纺织工程）; Yu, K.; Shang, S.; Xie, R.; Lu, F.; Bao, R.; Lan, G.; Hu, E. [Chestnut-like Macro-Acanthosphere Triggered Hemostasis: A Featured Mechanism Based on Puncturing Red Blood Cells](https://doi.org/10.1039/D1NR01148K). Nanoscale （国外A2级期刊，保研成果计分：25）2021, 13 (21), 9843–9852.
+- Yang, C. （杨春红，2017级纺织工程）; Shang, S.; Shou, D.; Ran, L.; Lan, G.; Hu, E. [Transforming Natural Silk Nonwovens into Robust Bioadhesives for in Vivo Tissue Amendment](https://doi.org/10.1016/j.jclepro.2021.127996). Journal of Cleaner Production （国外A1级期刊，保研成果计分：40） 2021, 314, 127996.
+- Zhou, L. （周琳，2017级纺织工程）; Yu, K.; Lu, F.; Lan, G.; Dai, F.; Shang, S.; Hu, E. [Minimizing Antibiotic Dosage through in Situ Formation of Gold Nanoparticles across Antibacterial Wound Dressings: A Facile Approach Using Silk Fabric as the Base Substrate](https://doi.org/10.1016/j.jclepro.2019.118604). Journal of Cleaner Production （国外A1级期刊，保研成果计分：40） 2020, 243, 118604.
 
 
 ## 大学生创新创业训练计划项目
