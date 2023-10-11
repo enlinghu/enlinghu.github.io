@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "学生培养"
+title: "本科生培养"
 author_profile: true
 redirect_from: 
   - /md/
