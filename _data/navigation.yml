@@ -3,7 +3,7 @@ main:
   - title: "Publications代表论文"
     url: /publications/
 
-  - title: "学生获奖"
+ # - title: "Talks报告"
     url: /talks/    
 
   - title: "Teaching授课"
