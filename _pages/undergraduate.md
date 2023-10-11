@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /undergraduate/
 title: "本科生培养"
 author_profile: true
 redirect_from: 
