@@ -1,6 +1,6 @@
 ---
 permalink: /undergraduate/
-title: ""
+title: "科研新星养成计划"
 author_profile: true
 redirect_from: 
   - /md/
