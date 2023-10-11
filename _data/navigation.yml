@@ -3,7 +3,10 @@ main:
   - title: "Publications代表论文"
     url: /publications/
 
-#  - title: "Talks报告"
+  - title: "学生培养"
+    url: /markdown/
+    
+  - title: "Talks报告"
     url: /talks/    
 
   - title: "Teaching授课"
@@ -12,11 +15,8 @@ main:
   - title: "Portfolio图文记录"
     url: /portfolio/
         
-  - title: "Blog Posts发帖"
+  - title: "Blog发帖"
     url: /year-archive/
     
   - title: "CV简历"
     url: /cv/
-    
-#  - title: "Guide"
-    url: /markdown/
