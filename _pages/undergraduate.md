@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # 本科生科研小超人🦸🏻‍♂️、科研小超女🦸🏻招新
-热忱欢迎对科研有兴趣的大一、大二本科生同学（理工科、农科）加入我们。我们将为你提供研究平台与实验指导，“领先一大步”产出科研成果，让你在同龄人中脱颖而出。成果形式包括：
+热忱欢迎对科研有兴趣的大一、大二本科生同学（理工科农科）加入我们。我们将为你提供研究平台与实验指导，“领先一大步”产出科研成果，让你在同龄人中脱颖而出❗成果形式包括：
 - 📰高水平英文学术论文发表
 - 🏆中国国际“互联网+”大学生创新创业大赛获奖
 - 👑大学生创新创业训练计划国家级、市级、校级项目立项
@@ -17,7 +17,7 @@ redirect_from:
 助力免试攻读硕士学位研究生（保研）❗
 助力海外高校深造（留学）❗
 
-# 👇快来看看学长🦸🏻‍♂️、学姐🦸🏻的表现吧👇
+# 👇看看学长🦸🏻‍♂️、学姐🦸🏻的表现吧👇
 ## 🤓SCI论文发表
 - Luo, J. （罗锦阳👩‍🔬，2020级轻化工程）; Wang, J.; Li, Q.; Xiong, L.; Xie, R.; Lan, G.; Ning, L.-J.; Xie, J.; Hu, E.; Lu, B. [In Situ Generation of Bioadhesives Using Dry Tannic Silk Particles: A Wet-Adhesion Strategy Relying on Removal of Hydraulic Layer over Wet Tissues for Wound Care. International Journal of Biological Macromolecules](https://doi.org/10.1016/j.ijbiomac.2023.126087)（国外A1🥇级期刊，保研成果计分：40） 2023, 250, 126087.
 - Liu, Y.（刘烊👨‍🔬，2018级纺织工程）; Yu, K.; Shang, S.; Xie, R.; Lu, F.; Bao, R.; Lan, G.; Hu, E. [Chestnut-like Macro-Acanthosphere Triggered Hemostasis: A Featured Mechanism Based on Puncturing Red Blood Cells](https://doi.org/10.1039/D1NR01148K). Nanoscale （国外A2🥈级期刊，保研成果计分：25）2021, 13 (21), 9843–9852.
