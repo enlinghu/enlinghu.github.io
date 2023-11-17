@@ -3,13 +3,13 @@ main:
   - title: "🔥本科生培养🔥"
     url: /undergraduate/
 
-#  - title: "Publications代表论文"
+  - title: "Publications代表论文"
     url: /publications/
 
 #  - title: "Talks报告"
     url: /talks/    
 
-#  - title: "Teaching授课"
+  - title: "Teaching授课"
     url: /teaching/    
     
 #  - title: "Portfolio图文记录"
