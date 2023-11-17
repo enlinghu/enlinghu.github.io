@@ -12,3 +12,4 @@ This work is published in **ACS Applied Materials and Interfaces**. [Paper link]
 
 Recommended citation:
 _Xiong, L.; Wang, H.; Wang, J.; Luo, J.; Xie, R.; Lu, F.; Lan, G.; Ning, L.-J.; Yin, R.; Wang, W.; Hu, E. Facilely Prepared Thirsty Granules Arouse Tough Wet Adhesion on Overmoist Wounds for Hemostasis and Tissue Repair. ACS Appl. Mater. Interfaces 2023, 15 (42), 49035–49050. https://doi.org/10.1021/acsami.3c11403_.
+
