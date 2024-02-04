@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2024新春离校前的团聚"
+excerpt: "与2023级本科生同学相约火锅晚餐<br/><img src='/images/2024Febhotpot.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+2024年2月4日晚，与尚未离校的2023级本科生同学（左起：刘珂、何季明、张诗雨）在晓秧锅聚餐。 
