@@ -3,8 +3,8 @@ title: "溶栓兼造影功能纳米靶向诊疗体系的构建及其作用机制
 collection: projects
 type: "Project"
 permalink: /project-2022-1
-Funder: "重庆市科学技术局"
-date: 2022-08-01
+venue: "重庆市科学技术局"
+date: 2022-08-01-2025-07-31
 Duration: "2年"
 ---
 
