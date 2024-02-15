@@ -18,5 +18,5 @@ main:
   - title: "CV简历"
     url: /cv/
 
-#  - title: "Talks报告"
-#    url: /talks/ 
+  - title: "Talks报告"
+    url: /talks/ 
