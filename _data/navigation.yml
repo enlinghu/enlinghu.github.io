@@ -5,10 +5,7 @@ main:
 
   - title: "Publications代表论文"
     url: /publications/
-
-#  - title: "Talks报告"
-    url: /talks/    
-
+ 
   - title: "Teaching授课"
     url: /teaching/    
     
@@ -20,3 +17,6 @@ main:
     
   - title: "CV简历"
     url: /cv/
+
+#  - title: "Talks报告"
+#    url: /talks/ 
