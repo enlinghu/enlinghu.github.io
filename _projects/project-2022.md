@@ -1,5 +1,5 @@
 ---
-title: "重庆市自然科学基金面上项目：溶栓兼造影功能纳米靶向诊疗体系的构建及其作用机制"
+title: "溶栓兼造影功能纳米靶向诊疗体系的构建及其作用机制（重庆市自然科学基金面上项目）"
 collection: projects
 type: "Project"
 permalink: /project-2022-1
