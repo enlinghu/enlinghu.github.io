@@ -1,7 +1,7 @@
 ---
 title: "Facilely Prepared Thirsty Granules Arouse Tough Wet Adhesion on Overmoist Wounds for Hemostasis and Tissue Repair"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://doi.org/10.1021/acsami.3c11403
 excerpt: 'This paper is about hemostasis and wound healing.'
 date: 2023-11-11
 ---
