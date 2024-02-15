@@ -67,13 +67,13 @@ Publications 代表性论文
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+# Talks
+# ======
+#   <ul>{% for post in site.talks %}
+#     {% include archive-single-talk-cv.html %}
+#   {% endfor %}</ul>
   
-Teaching
+Teaching 课程教学
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
