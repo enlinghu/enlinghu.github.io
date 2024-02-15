@@ -4,7 +4,7 @@ collection: projects
 type: "Project"
 permalink: /project-2022-1
 venue: "重庆市科学技术局"
-date: 2022-08-01-2025-07-31
+date: 2022-08-01 to 2025-07-31
 Duration: "2年"
 ---
 
