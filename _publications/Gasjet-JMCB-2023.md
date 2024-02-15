@@ -2,6 +2,7 @@
 title: "Gas-jet propelled hemostats for targeted hemostasis in wounds with irregular shape and incompressibility. Journal of Materials Chemistry B 2023, 11(17), 3885-3897."
 collection: publications
 permalink: /publication/Gasjet-JMCB-2023
+venue: 'Journal of Materials Chemistry B'
 excerpt: 'This paper is about hemostasis.'
 date: 2023-03-22
 ---
