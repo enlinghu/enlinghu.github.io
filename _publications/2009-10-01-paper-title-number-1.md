@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about hemostasis and wound healing.'
 date: 2023-11-11
 ---
-
+伤口表面湿漉的状态是阻碍粘性敷料在伤口表面稳固粘附的最大阻碍。因此，有效排除伤口表面的游离水是实现敷料稳固贴附，更是实现创面愈合的关键。本研究利用丝素蛋白与多酚物质，通过室温条件下的温和反应，制备了一种嗜水粉末敷料。在施加于湿漉伤口表面后，可以快速吸收伤口水分而原位转化为粘性贴膜敷料，实现了敞开伤口的有效包扎，达到了伤口的快速止血与慢性愈合的目的。这种嗜水粉末敷料在湿漉伤口表面“转危为机”的特性，将为长期困扰的“敷料湿粘附不足”难题提供全新思路。
 Bioadhesives are often used to stop bleeding and fix damaged tissue. However, the wound surface being too wet (from blood and/or wound exudate) makes bioadhesives not stick well, which makes it hard to keep caring for wounds. This study easily created a polyphenolic silk powder called Tan@SF-pwd-hydro that can soak up blood and fluids and then change into strong bioadhesives called Tan@SF-gel-hydro. This allows for better wet bonding for stopping bleeding and healing tissues. Tan@SF-pwd-hydro could protect wounds from getting wet and change right away into Tan@SF-gel-hydro to seal wounds and stop bleeding while they heal. In the groundbreaking study, the silk powders used wetness on wounds to make strong adhesion, artistically turning challenges into opportunities. The simple production method also opens up new ways to make biomaterials that are sustainable.
 
 This work is published in **ACS Applied Materials and Interfaces**. [Paper link](https://doi.org/10.1021/acsami.3c11403)
