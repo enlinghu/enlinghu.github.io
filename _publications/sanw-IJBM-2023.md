@@ -2,6 +2,7 @@
 title: "A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management. International Journal of Biological Macromolecules 2023, 263(part 4), 127000."
 collection: publications
 permalink: /publication/sand-IJBM-2023
+venue: "International Journal of Biological Macromolecules"
 excerpt: 'This paper is about wound healing
 date: 2023-12-31
 ---
