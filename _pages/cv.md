@@ -52,8 +52,6 @@ Work experience 工作经历
   * 指导教授: 尚颂民教授、陶肖明教授
 
 
-
-
 Research Interests 研究方向
 ======
 * Hemostasis 智能递送止血材料
@@ -67,18 +65,15 @@ Publications 代表性论文
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
-# ======
-#   <ul>{% for post in site.talks %}
-#     {% include archive-single-talk-cv.html %}
-#   {% endfor %}</ul>
   
 Teaching 课程教学
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+  Talks
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
