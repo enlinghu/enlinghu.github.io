@@ -2,7 +2,7 @@
 title: "Transforming natural silk nonwovens into robust bioadhesives for in vivo tissue amendment. Journal of Cleaner Production 2021, 314, 127996."
 collection: publications
 permalink: /publication/trans-JCP-2021
-vanue: "Journal of Cleaner Production"
+venue: "Journal of Cleaner Production"
 excerpt: 'This paper is about wound healing.'
 date: 2021-09-10
 ---
