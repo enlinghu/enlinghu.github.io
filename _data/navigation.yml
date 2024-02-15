@@ -5,18 +5,18 @@ main:
 
   - title: "Publications代表论文"
     url: /publications/
- 
+    
+  - title: "Projects项目"
+    url: /projects/ 
+    
   - title: "Teaching授课"
     url: /teaching/    
     
   - title: "Portfolio图文记录"
     url: /portfolio/
         
-  - title: "Blog发帖"
-    url: /year-archive/
-    
   - title: "CV简历"
     url: /cv/
 
-  - title: "Talks报告"
-    url: /talks/ 
+  - title: "Blog发帖"
+    url: /year-archive/
