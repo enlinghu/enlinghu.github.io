@@ -2,6 +2,7 @@
 title: "Facilely Prepared Thirsty Granules Arouse Tough Wet Adhesion on Overmoist Wounds for Hemostasis and Tissue Repair. ACS Applied Materials & Interfaces. 2023, 15(42), 49035–49050."
 collection: publications
 permalink: /publication/facilely-AMI-2023
+vanue: "ACS Applied Materials and Interfaces"
 excerpt: 'This paper is about hemostasis and wound healing.'
 date: 2023-11-11
 ---
