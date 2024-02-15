@@ -15,8 +15,8 @@ main:
   - title: "Portfolio图文记录"
     url: /portfolio/
         
-#  - title: "Blog发帖"
+  - title: "Blog发帖"
     url: /year-archive/
     
-#  - title: "CV简历"
+  - title: "CV简历"
     url: /cv/
