@@ -2,7 +2,7 @@
 title: "Minimizing antibiotic dosage through in situ formation of gold nanoparticles across antibacterial wound dressings: A facile approach using silk fabric as the base substrate. Journal of Cleaner Production 2021, 243, 118604."
 collection: publications
 permalink: /publication/mini-JCP-2020
-vanue: "Journal of Cleaner Production"
+venue: "Journal of Cleaner Production"
 excerpt: 'This paper is about would healing.'
 date: 2020-01-10
 ---
