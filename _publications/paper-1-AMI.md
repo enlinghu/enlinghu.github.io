@@ -1,5 +1,5 @@
 ---
-title: "Xiong, L.; Wang, H.; Wang, J.; Luo, J.; Xie, R.; Lu, F.; Lan, G.; Ning, L.-J.; Yin, R.; Wang, W.; Hu, E*. Facilely Prepared Thirsty Granules Arouse Tough Wet Adhesion on Overmoist Wounds for Hemostasis and Tissue Repair. ACS Appl. Mater. Interfaces 2023, 15 (42), 49035–49050."
+title: "Facilely Prepared Thirsty Granules Arouse Tough Wet Adhesion on Overmoist Wounds for Hemostasis and Tissue Repair. ACS Appl. Mater. Interfaces 2023, 15 (42), 49035–49050."
 collection: publications
 permalink: /publication/facilely-AMI-2023
 excerpt: 'This paper is about hemostasis and wound healing.'
