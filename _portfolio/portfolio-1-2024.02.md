@@ -1,7 +1,7 @@
 ---
 title: "2024新春离校前的团聚"
 excerpt: "与2023级本科生同学相约火锅晚餐🍲<br/><img src='/images/2024Febhotpot.jpg'>"
-collection: portfolio图文记录
+collection: portfolio
 date: 2024-02-04
 ---
 
