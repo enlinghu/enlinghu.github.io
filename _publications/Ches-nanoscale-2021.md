@@ -2,6 +2,7 @@
 title: "Chestnut-like macro-acanthosphere triggered hemostasis: a featured mechanism based on puncturing red blood cells. Nanoscale 2021, 13(21), 9843-9852."
 collection: publications
 permalink: /publication/ches-nanoscale-2021
+venue: 'Nanoscale'
 excerpt: 'This paper is about hemostasis.'
 date: 2021-04-30
 ---
