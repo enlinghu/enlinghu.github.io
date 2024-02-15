@@ -1,5 +1,5 @@
 ---
-title: "2023年11月参加良渚尖端科技论坛"
+title: "2023年11月：参加良渚尖端科技论坛"
 excerpt: "与2018级本科生同学会场见面😉<br/><img src='/images/IMG_9686.jpeg'>"
 collection: portfolio
 
