@@ -1,5 +1,5 @@
 ---
-title: "2023年10月参加13届中国纺织学术年会"
+title: "2023年10月：参加13届中国纺织学术年会"
 excerpt: "与香港理工大学校友、老师在会场见面😀<br/><img src='/images/IMG_9103.jpeg'>"
 collection: portfolio
 
