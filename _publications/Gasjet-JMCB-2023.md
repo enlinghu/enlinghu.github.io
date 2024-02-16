@@ -6,7 +6,7 @@ venue: 'Journal of Materials Chemistry B'
 excerpt: 'This paper is about hemostasis.'
 date: 2023-03-22
 ---
-This work is published in **Journal of Materials Chemistry B**. [Paper link](https://doi.org/10.1039/D3TB00165B)
+[Paper link](https://doi.org/10.1039/D3TB00165B)
 
 <br/><img src='/images/fig1-gasjet-jmcb-2023.png'>
 
