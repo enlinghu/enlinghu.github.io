@@ -7,7 +7,7 @@ excerpt: 'This paper is about wound healing.'
 date: 2021-09-10
 ---
 
-This work is published in **Journal of Cleaner Production**. [Paper link](https://doi.org/10.1016/j.jclepro.2021.127996)
+[Paper link](https://doi.org/10.1016/j.jclepro.2021.127996)
 
 <br/><img src='/images/fig1-trans-JCP-2021.jpg'>
 
