@@ -6,7 +6,7 @@ venue: "ACS Applied Materials and Interfaces"
 excerpt: 'This paper is about hemostasis and wound healing.'
 date: 2023-11-11
 ---
-This work is published in **ACS Applied Materials and Interfaces**. [Paper link](https://doi.org/10.1021/acsami.3c11403)
+[Paper link](https://doi.org/10.1021/acsami.3c11403)
 
 <br/><img src='/images/fig1-faciely-ami-2023.png'>
 
