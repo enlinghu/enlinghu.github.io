@@ -7,7 +7,7 @@ excerpt: 'This paper is about would healing.'
 date: 2020-01-10
 ---
 
-This work is published in **Journal of Cleaner Production**. [Paper link](https://doi.org/10.1016/j.jclepro.2019.118604)
+[Paper link](https://doi.org/10.1016/j.jclepro.2019.118604)
 
 <br/><img src='/images/fig1-mini-JCP-2020.jpg'>
 
