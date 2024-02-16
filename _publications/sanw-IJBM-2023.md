@@ -8,7 +8,7 @@ date: 2023-12-31
 ---
 
 
-This work is published in **International Journal of Biological Macromolecules**. [Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
+[Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
 
 <br/><img src='/images/fig1-sand-IJBM-2023.jpg'>
 
