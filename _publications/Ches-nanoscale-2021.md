@@ -7,7 +7,7 @@ excerpt: 'This paper is about hemostasis.'
 date: 2021-04-30
 ---
 
-This work is published in **Nanosacle**. [Paper link](https://doi.org/10.1039/D1NR01148K)
+[Paper link](https://doi.org/10.1039/D1NR01148K)
 
 <br/><img src='/images/fig1-ches-nanoscale-2021.png'>
 
