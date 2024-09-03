@@ -1,15 +1,15 @@
 ---
-title: "A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management. International Journal of Biological Macromolecules 2023, 263(part 4), 127000."
+title: "Magnetic-navigable silk fibroin microneedles for oral drug delivery: Ensuring long-lasting <i>helicobacter pylori</i> eradication and rapid hemostasis in the stomach. International Journal of Biological Macromolecules 2024, 275, 133584."
 collection: publications
-permalink: /publication/sand-IJBM-2023
+permalink: /publication/Magnetic-IJBM-2024
 venue: "International Journal of Biological Macromolecules"
-excerpt: 'This paper is about wound healing.'
-date: 2023-12-31
+excerpt: 'This paper is about gastric hemostasis.'
+date: 2024-08-01
 ---
 
 
-[Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
+[Paper link](https://doi.org/10.1016/j.ijbiomac.2024.133584)
 
-<br/><img src='/images/fig1-sand-IJBM-2023.jpg'>
+<br/><img src='/images/fig1-Magnetic-IJBM-2024'>
 
-Optimal wound healing requires a wet microenvironment without over-hydration. Inspired by capillarity and transpiration, we have developed a sandwich-like fibers/sponge dressing with continuous exudate drainage to maintain appropriate wound moisture. This dressing is prepared by integrating a three-layer structure using the freeze-drying method. Layer I, as the side that contacts with the skin directly, consists of a hydrophobic silk fibroin membrane; Layer II, providing the pumping action, is made of superabsorbent chitosan-konjac glucomannan sponge; Layer III, accelerating evaporation sixfold compared to natural evaporation, is constructed with a graphene oxide soaked hydrophilic cellulose acetate membrane. Animal experiments showed that the composite dressing had superior wound-healing characteristics, with wounds decreasing to 24.8% of their original size compared to 28.5% for the commercial dressing and 43.2% for the control. The enhanced wound healing can be ascribed to the hierarchical porous structure serves as the fluid-driving factor in this effort; the hydrophilicity of a membrane composed of silk fibroin nanofibers is adjustable to regulate fluid-transporting capacity; and the photothermal effect of graphene oxide guarantees exudates that have migrated to the top layer to evaporate continuously. These findings indicate the unidirectional wicking dressing has the potential to become the next generation of clinical dressings.
+The Helicobacter pylori infection in the stomach is the key reason for gastric mucosal bleeding. Eliminating gastric Helicobacter pylori by oral treatment remains difficult due to the presence of the gastric mucosal layer, which acts as a physical barrier to drugs via oral administration. In this study, a magnetic-navigable microneedle drug delivery platform (MNsD) for oral administration, featuring differential dual-mode drug release rate, was designed to fulfil rapid gastric hemostasis and overcome the gastric barriers for long-lasting Helicobacter pylori inhibition in stomach. MNs-D was created by rationally loading the carrier substrate, which was composed of silk fibroin with variable solubility, with antibiotics and hemostats. In vitro experiments showed MNs-D may sustainably eradicate Helicobacter pylori in stimulated gastric juices with long-lasting drug release (79 % in 24 h) and quickly establish hemostasis with instant drug release (92 % within 60 s). Most importantly, in vivo studies demonstrated MNs-D overcame the unsettling gastric mucosal barrier in traditional therapies of oral administration by insertion into the GML under magnetic navigation, resulting in sustained antibiotic release for long-lasting Helicobacter pylori eradiation (99 %). For differential dual-mode medication release against gastric Helicobacter pylori infections, this study may have firstly examined the effects of magnetic navigated microneedles administered orally.
