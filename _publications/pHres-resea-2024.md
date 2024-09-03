@@ -1,15 +1,15 @@
 ---
-title: "A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management. International Journal of Biological Macromolecules 2023, 263(part 4), 127000."
+title: "pH-Responsive theranostic colloidosome drug carriers enable real-time imaging of targeted thrombolytic process with near-infrared-II for deep venous thrombosis. Research 2024, 0388."
 collection: publications
 permalink: /publication/sand-IJBM-2023
-venue: "International Journal of Biological Macromolecules"
-excerpt: 'This paper is about wound healing.'
-date: 2023-12-31
+venue: "Research"
+excerpt: 'This paper is about thrombolysis.'
+date: 2024-04-23
 ---
 
 
-[Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
+[Paper link](https://doi.org/10.34133/research.0388)
 
-<br/><img src='/images/fig1-sand-IJBM-2023.jpg'>
+<br/><img src='/images/FIG1-pHres-resea-2024.jpg'>
 
-Optimal wound healing requires a wet microenvironment without over-hydration. Inspired by capillarity and transpiration, we have developed a sandwich-like fibers/sponge dressing with continuous exudate drainage to maintain appropriate wound moisture. This dressing is prepared by integrating a three-layer structure using the freeze-drying method. Layer I, as the side that contacts with the skin directly, consists of a hydrophobic silk fibroin membrane; Layer II, providing the pumping action, is made of superabsorbent chitosan-konjac glucomannan sponge; Layer III, accelerating evaporation sixfold compared to natural evaporation, is constructed with a graphene oxide soaked hydrophilic cellulose acetate membrane. Animal experiments showed that the composite dressing had superior wound-healing characteristics, with wounds decreasing to 24.8% of their original size compared to 28.5% for the commercial dressing and 43.2% for the control. The enhanced wound healing can be ascribed to the hierarchical porous structure serves as the fluid-driving factor in this effort; the hydrophilicity of a membrane composed of silk fibroin nanofibers is adjustable to regulate fluid-transporting capacity; and the photothermal effect of graphene oxide guarantees exudates that have migrated to the top layer to evaporate continuously. These findings indicate the unidirectional wicking dressing has the potential to become the next generation of clinical dressings.
+Thrombosis can cause life-threatening disorders. Unfortunately, current therapeutic methods for thrombosis using injecting thrombolytic medicines systemically resulted in unexpected bleeding complications. Moreover, the absence of practical imaging tools for thrombi raised dangers of undertreatment and overtreatment. This study develops a theranostic drug carrier, Pkr(IR-Ca/Pda-uPA)-cRGD, that enables real-time monitoring of the targeted thrombolytic process of deep vein thrombosis (DVT). Pkr(IR-Ca/Pda-uPA)-cRGD, which is prepared from a Pickering-emulsion-like system, encapsulates both near-infrared-II (NIR-II) contrast agent (IR-1048 dye, loading capacity: 28%) and urokinase plasminogen activators (uPAs, encapsulation efficiency: 89%), pioneering the loading of multiple drugs with contrasting hydrophilicity into one single-drug carrier. Upon intravenous injection, Pkr(IR-Ca/Pda-uPA)-cRGD considerably targets to thrombi selectively (targeting rate: 91%) and disintegrates in response to acidic thrombi to release IR-1048 dye and uPA for imaging and thrombolysis, respectively. Investigations indicate that Pkr(IR-Ca/Pda-uPA)-cRGD enabled real-time visualization of targeted thrombolysis using NIR-II imaging in DVT models, in which thrombi were eliminated (120 min after drug injection) without bleeding complications. This may be the first study using convenient NIR-II imaging for real-time visualization of targeted thrombolysis. It represents the precision medicine that enables rapid response to acquire instantaneous medical images and make necessary real-time adjustments to diagnostic and therapeutic protocols during treatment.
