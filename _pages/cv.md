@@ -21,7 +21,7 @@ Education 教育背景
 * 博士：功能材料，香港理工大学，2013 - 2016
 
   
-Work experience 工作经历
+Work Experience 工作经历
 ======
 * 2018 - present: Associate Professor
   * Southwest University, China
