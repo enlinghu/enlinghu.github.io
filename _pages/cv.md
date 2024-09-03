@@ -52,21 +52,23 @@ Work Experience 工作经历
   * 指导教授: 尚颂民教授、陶肖明教授
 
 
-Research Interests 研究方向
+Research Interest 研究方向
 ======
-* Hemostasis 智能递送止血材料
-* Thrombolysis 精准靶向溶栓与携栓血管修复材料
-* Tissue repair 交互响应性组织修复材料
+* Rapid Hemostasis In vivo and controlled clotting in vitro 快速体内止血与体外凝血 
+* Regeneration of Moisture and Private Tissue and Its Microenvironment Rebuild 湿润隐蔽组织再生与微环境重建 
+* Functional Textiles for Massive Health 功能性大健康纺织品及其产业化 
+* Utilization of Biomass Protein from Livestock, Poultry, and Resource insect 畜、禽、昆虫类生物质蛋白的高值化利用 
+* Insensitive Coloration Technology for Color-Sensitive Intimate Textile s匀染敏感型贴肤面料的“钝感”上色工艺 
 
 
-Publications 代表性论文
+Publication 代表性论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
-Projects 科研项目
+Project 科研项目
 ======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
