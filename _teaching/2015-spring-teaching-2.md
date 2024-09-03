@@ -10,5 +10,7 @@ location: "Chongqing, China"
 
 - Literature Review 中外主文献研读
 - Frontiers in Textile Chemistry 染整技术前沿
+- Textiles for Massive Health 生物医用纺织品
+
 
 
