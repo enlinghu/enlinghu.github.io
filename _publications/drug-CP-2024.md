@@ -1,15 +1,15 @@
 ---
-title: "A sandwich-like silk fibroin/polysaccharide composite dressing with continual biofluid draining for wound exudate management. International Journal of Biological Macromolecules 2023, 263(part 4), 127000."
+title: "Drug delivery under cover of erythrocytes extends drug half-life: A thrombolytic targeting therapy utilizing microenvironment-responsive artificial polysaccharide microvesicles. Carbohydrate Polymers 2024, 343, 122505."
 collection: publications
-permalink: /publication/sand-IJBM-2023
-venue: "International Journal of Biological Macromolecules"
+permalink: /publication/drug-CP-2024
+venue: "Carbohydrate Polymers"
 excerpt: 'This paper is about wound healing.'
-date: 2023-12-31
+date: 2024-11-01
 ---
 
 
 [Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
 
-<br/><img src='/images/fig1-sand-IJBM-2023.jpg'>
+<br/><img src='/images/GrapAbs-drug-CP-2024.jpg'>
 
-Optimal wound healing requires a wet microenvironment without over-hydration. Inspired by capillarity and transpiration, we have developed a sandwich-like fibers/sponge dressing with continuous exudate drainage to maintain appropriate wound moisture. This dressing is prepared by integrating a three-layer structure using the freeze-drying method. Layer I, as the side that contacts with the skin directly, consists of a hydrophobic silk fibroin membrane; Layer II, providing the pumping action, is made of superabsorbent chitosan-konjac glucomannan sponge; Layer III, accelerating evaporation sixfold compared to natural evaporation, is constructed with a graphene oxide soaked hydrophilic cellulose acetate membrane. Animal experiments showed that the composite dressing had superior wound-healing characteristics, with wounds decreasing to 24.8% of their original size compared to 28.5% for the commercial dressing and 43.2% for the control. The enhanced wound healing can be ascribed to the hierarchical porous structure serves as the fluid-driving factor in this effort; the hydrophilicity of a membrane composed of silk fibroin nanofibers is adjustable to regulate fluid-transporting capacity; and the photothermal effect of graphene oxide guarantees exudates that have migrated to the top layer to evaporate continuously. These findings indicate the unidirectional wicking dressing has the potential to become the next generation of clinical dressings.
+The development of thrombolytic drug carriers capable of thrombus-targeting, prolonged circulation time, intelligent responsive release, and the ability to inhibit thrombotic recurrences remains a promising but significant challenge. To tackle this, an artificial polysaccharide microvesicle drug delivery system (uPA-CS/HS@RGD-ODE) was constructed. It is composed of cationic chitosan and anionic heparin assembled in a layer by layer structure, followed by surface modification using RGD peptide and 2-(N-oxide-N,N-diethylamino) ethylmethacrylate (ODE) before encapsulation of urokinase-type plasminogen activator (uPA). The effect of chitosan on the basic performances of uPA-CS/HS@RGD-ODE was estimated. The in vitro results suggest the uPA carrier, CS/HS@RGD-ODE, displayed outstanding targeting specific to activated platelets (61 %) and microenvironment-responsiveness at pH 6.5, facilitating thrombus-targeting and a controlled drug release, respectively. Most importantly, in vivo experiment suggests ODE from uPA-CS/HS@RGD-ODE substantially extends the half-life of uPA (120 min), as uPA-CS/HS@RGD-ODE can adhere onto erythrocytes and deliver uPA under cover of erythrocytes enabling a prolonged circulation time in the bloodstream. Further tail vein and abdominal aorta thrombosis models confirmed uPA-CS/HS@RGD-ODE exhibited superior targeting and thrombolysis capabilities compared to systemic administration of free uPA. To the knowledge of authors, this may be the first study to develop new drug carriers for delivery of thrombolytic drugs under the cover of erythrocytes for extended drug half-lives.
