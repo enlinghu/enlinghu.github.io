@@ -3,7 +3,7 @@ title: "Drug delivery under cover of erythrocytes extends drug half-life: A thro
 collection: publications
 permalink: /publication/drug-CP-2024
 venue: "Carbohydrate Polymers"
-excerpt: 'This paper is about wound healing.'
+excerpt: 'This paper is about thrombolysis.'
 date: 2024-11-01
 ---
 
