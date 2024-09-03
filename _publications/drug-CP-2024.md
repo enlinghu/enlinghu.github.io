@@ -8,7 +8,7 @@ date: 2024-11-01
 ---
 
 
-[Paper link](https://doi.org/10.1016/j.ijbiomac.2023.127000)
+[Paper link](https://doi.org/10.1016/j.carbpol.2024.122505)
 
 <br/><img src='/images/GrapAbs-drug-CP-2024.jpg'>
 
