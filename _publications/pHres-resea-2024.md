@@ -1,7 +1,7 @@
 ---
-title: "pH-Responsive theranostic colloidosome drug carriers enable real-time imaging of targeted thrombolytic process with near-infrared-II for deep venous thrombosis. Research 2024, 0388."
+title: "pH-Responsive theranostic colloidosome drug carriers enable real-time imaging of targeted thrombolytic process with near-infrared-II for deep venous thrombosis. Research 2024, 7，0388."
 collection: publications
-permalink: /publication/sand-IJBM-2023
+permalink: /publication/pHres-resea-2024
 venue: "Research"
 excerpt: 'This paper is about thrombolysis.'
 date: 2024-04-23
