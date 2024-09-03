@@ -10,10 +10,12 @@ redirect_from:
 
 胡恩岭博士，西南大学副教授、硕士生导师。自2009年始，供职于香港理工大学近十年，先后担任研究助理、助理研究员、博士后等职位。2018年7月，入职西南大学，在蚕桑纺织与生物质科学学院开展科研与教学工作。在研究生培养上，同时担任生物与医药（专硕）与纺织科学与工程（学硕）两个专业的硕士生导师；在本科生培养上，担任学院学业导师、创新实验指导、毕业设计导师，以及大学生创新创业训练计划项目（国创、市创、校创）与大学生“互联网+”创新创业竞赛导师。
 
-**研究方向**：
-- 智能递送止血材料
-- 交互响应组织修复材料
-- 精准靶向溶栓与血管修复材料
+**研究方向Research Interest**：
+- 快速体内止血与体外凝血 Rapid hemostasis in vivo and clotting in vitro
+- 湿润隐蔽组织再生与微环境重建 Regeneration of moisture and private tissues and their microenvironment rebuild
+- 功能性大健康纺织品及其产业化 Functional textiles for massive health
+- 畜、禽、昆虫类生物质蛋白的高值化利用 Utilization of protein from biomass from livestock, poultry, and resource insects
+- 匀染敏感型贴肤面料的“钝感”上色工艺 Insensitive coloration technology for dyeing-sensitive intimate textiles
 
 
    
