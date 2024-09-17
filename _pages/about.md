@@ -12,7 +12,7 @@ redirect_from:
 
 **研究方向Research Interest**：
 - 快速体内止血与体外凝血
-  Rapid Hemostasis In vivo and controlled clotting in vitro
+  Rapid Hemostasis In Vivo and Controlled Clotting In Vitro
 - 湿润隐蔽组织再生与微环境重建
   Regeneration of Moisture and Private Tissue and Its Microenvironment Rebuild
 - 功能性大健康纺织品及其产业化
